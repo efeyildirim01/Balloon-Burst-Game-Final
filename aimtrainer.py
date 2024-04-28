@@ -4,7 +4,7 @@ import pygame
 import sys
 
 # Window dimensions
-WIDTH, HEIGHT = 800, 600
+WIDTH, HEIGHT = 800, 60
 
 # Colors
 WHITE = (255, 255, 255)
